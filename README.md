@@ -667,10 +667,10 @@
                 class="work"
                 style="background-image: url(./images/September\ 6\ 2023.jpg)"
               >
-                <div class="desc">
+                <!-- <div class="desc">
                   <h3>Biology Queen</h3>
                   <span>9/6/23</span>
-                </div>
+                </div> -->
               </a>
             </div>
             <div class="col-md-3 text-center col-padding animate-box">
@@ -680,10 +680,10 @@
                 class="work"
                 style="background-image: url(./images/hello\ there.heic)"
               >
-                <div class="desc">
+                <!-- <div class="desc">
                   <h3>*sniff*</h3>
                   <span></span>
-                </div>
+                </div> -->
               </a>
             </div>
             <div class="col-md-3 text-center col-padding animate-box">
@@ -693,10 +693,10 @@
                 class="work"
                 style="background-image: url(./images/July\ 25\ 2023.jpg)"
               >
-                <div class="desc">
+                <!-- <div class="desc">
                   <h3>Just a girl & her bear pillow</h3>
                   <span>7/25/23</span>
-                </div>
+                </div> -->
               </a>
             </div>
             <div class="col-md-3 text-center col-padding animate-box">
@@ -706,10 +706,10 @@
                 class="work"
                 style="background-image: url(./images/December\ 23\ 2023.jpg)"
               >
-                <div class="desc">
+                <!-- <div class="desc">
                   <h3>Cinamoroll Girly</h3>
                   <span>12/23/23</span>
-                </div>
+                </div> -->
               </a>
             </div>
             <div class="col-md-3 text-center col-padding animate-box">
@@ -719,10 +719,10 @@
                 class="work"
                 style="background-image: url(./images/October\ 8\ 2023\ 1.jpg)"
               >
-                <div class="desc">
+                <!-- <div class="desc">
                   <h3>SALLY IRL</h3>
                   <span>10/8/23</span>
-                </div>
+                </div> -->
               </a>
             </div>
     		<div class="col-md-3 text-center col-padding animate-box">

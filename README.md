@@ -654,10 +654,10 @@
                 class="work"
                 style="background-image: url(./images/favorites/Favorite\ Photo\ 1.heic)"
               >
-                <div class="desc">
+                <!-- <div class="desc">
                   <h3>She a MODEL</h3>
                   <span>3/9/24</span>
-                </div>
+                </div> -->
               </a>
             </div>
             <div class="col-md-3 text-center col-padding animate-box">
